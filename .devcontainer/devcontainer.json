@@ -14,7 +14,6 @@
   // connected. This is typically a file mount in .devcontainer/docker-compose.yml
   "workspaceFolder": "/project-dir",
   "features": {},
-  "postCreateCommand": "conda init zsh",
   "customizations": {
     "vscode": {
       "settings": {
